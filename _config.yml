@@ -3,6 +3,7 @@ author: "Blog Author"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
+url: "https://kimyu0218.github.io/"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
